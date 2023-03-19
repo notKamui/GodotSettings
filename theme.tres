@@ -1,0 +1,8 @@
+[gd_resource type="EditorSettings" format=3]
+
+[resource]
+interface/theme/preset = "Custom"
+interface/theme/base_color = Color(0.0941176, 0.109804, 0.184314, 1)
+interface/theme/accent_color = Color(0.231373, 0.870588, 0.529412, 1)
+interface/theme/contrast = 0.3
+interface/theme/icon_saturation = 2.0
